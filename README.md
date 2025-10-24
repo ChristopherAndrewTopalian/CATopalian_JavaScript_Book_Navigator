@@ -5,6 +5,20 @@ A JavaScript app designed for easy sorting and displaying of data. Easily naviga
 
 ![001](src/media/textures/screenshots/001.PNG)
 
+JavaScript Book Navigator is a powerful new way to explore books, study resources, and educational content right in your browser.
+This app automatically generates a clean button menu system based on the categories in your data, allowing you to instantly switch between topics without any hard-coded menus.
+
+Each entry includes detailed information, clickable links, and supporting references — perfect for research, teaching, or deep study sessions.
+
+## Featuring:  
+• auto-generated category navigation  
+• expandable data system using arrays of objects  
+• instant access to structured study notes  
+• simple, mobile-friendly interface  
+• designed for speed, organization, and clarity  
+
+Whether you're a student, developer, or someone digging deep into historical and literary texts, this tool makes learning faster and smarter.
+
 ---
 
 ### How to Download this App
