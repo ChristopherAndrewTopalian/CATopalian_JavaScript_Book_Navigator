@@ -34,7 +34,7 @@ function makeEntriesShowAll(whichArray)
             leftContainer.style.margin = '2px';
             leftContainer.style.padding = '4px 8px';
             // leftContainer.style.height = '100px';
-            leftContainer.style.overflowY = 'scroll';
+            // leftContainer.style.overflowY = 'scroll';
             mainDiv.append(leftContainer);
 
             //-//

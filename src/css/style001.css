@@ -113,12 +113,12 @@ div
   width: 8px; /* Adjust the thickness here */
 }
 
-/* Style the scrollbar track (background of the scrollbar) */
+/* style the scrollbar track (background of the scrollbar) */
 ::-webkit-scrollbar-track {
   background: #2c3e50; /* Darker background for contrast */
 }
 
-/* Style the scrollbar thumb (the draggable part) */
+/* style the scrollbar thumb (the draggable part) */
 ::-webkit-scrollbar-thumb {
   background-color: #3498db; /* Bright blue */
   border-radius: 4px; /* Rounded corners for a nice look */
