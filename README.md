@@ -5,6 +5,8 @@ A JavaScript app designed for easy sorting and displaying of data. Easily naviga
 
 ![001](src/media/textures/screenshots/001.PNG)
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Book_Navigator/CATopalian_JavaScript_Book_Navigator.html
+
 JavaScript Book Navigator is a powerful new way to explore books, study resources, and educational content right in your browser.
 This app automatically generates a clean button menu system based on the categories in your data, allowing you to instantly switch between topics without any hard-coded menus.
 
