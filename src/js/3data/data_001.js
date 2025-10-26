@@ -18,9 +18,6 @@ let data_001 =
     evidence001Name: 'Psalm 33:6',
     evidence001URL: 'https://www.biblegateway.com/passage/?search=Psalm+33%3A6&version=KJV',
     evidence001Words: "Psalm 33:6 (KJV) 6 By the word of the Lord were the heavens made; and all the host of them by the breath of his mouth.",
-    evidence002Name: 'John 1:1-3',
-    evidence002URL: 'https://www.biblegateway.com/passage/?search=John+1%3A1-3&version=KJV',
-    evidence002Words: "John 1:1-3 (KJV) 1 In the beginning was the Word, and the Word was with God, and the Word was God. 2 The same was in the beginning with God. 3 All things were made by him; and without him was not any thing made that was made.",
 },
 
 // Genesis 1:26-27 - creation
