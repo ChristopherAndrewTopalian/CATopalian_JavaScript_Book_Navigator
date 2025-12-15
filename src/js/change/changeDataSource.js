@@ -1,9 +1,8 @@
-// whenLoaded.js
+// changeDataSource.js
 
-function whenLoaded()
+function changeDataSource(whichSource)
 {
-    // we set the default data source here
-    data = data_001;
+    data = whichSource;
 
     // sort by category and name
     sortByCategoryAndName(data, "up");
@@ -11,8 +10,6 @@ function whenLoaded()
     makeInterface(data);
 
     makeEntriesShowAll(data);
-
-    makeTitleOfApp();
 }
 
 //----//

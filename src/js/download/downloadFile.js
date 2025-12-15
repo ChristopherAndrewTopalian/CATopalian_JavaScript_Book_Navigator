@@ -2,9 +2,9 @@
 
 function downloadFile()
 {
-    let object = data_001;
+    let object = data;
 
-    let dataStr = "data:text/json;charset=utf-8," + encodeURIComponent('data_001 = ' + JSON.stringify(object) + ';');
+    let dataStr = "data:text/json;charset=utf-8," + encodeURIComponent('data = ' + JSON.stringify(object) + ';');
 
     let dlAnchorElem = document.getElementById("downloadAnchorElem");
 

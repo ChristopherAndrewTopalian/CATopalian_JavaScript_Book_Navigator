@@ -4,8 +4,7 @@
 // Close Objects = Ctrl + K  Ctrl + 0
 // Open Objects = Ctrl + K  Ctrl + J
 
-let data_001 = 
-[
+data_001 = [
 
 // Genesis 1:1-5 - creation
 {

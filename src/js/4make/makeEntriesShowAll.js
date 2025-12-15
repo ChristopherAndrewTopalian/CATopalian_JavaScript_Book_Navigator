@@ -4,7 +4,8 @@ function makeEntriesShowAll(whichArray)
 {
     eraseDivs();
 
-    sortByCategoryAndName(data_001, "up");
+    sortByCategoryAndName(whichArray, "up");
+
     sortByName(whichArray, "up");
 
     //-//
@@ -97,7 +98,7 @@ function makeEntriesShowAll(whichArray)
             notesText.style.border = 'solid 1px rgb(255, 255, 255)';
             notesText.style.borderRadius = '8px';
             notesText.style.padding = '4px 8px';
-            notesText.style.fontFamily = 'Arial';
+            notesText.style.fontFamily = 'Cambria';
             notesText.style.fontWeight = 'bold';
             notesText.style.color = 'rgb(175, 175, 175)';
             rightContainer.append(notesText);

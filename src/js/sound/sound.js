@@ -88,6 +88,20 @@ function clickSound()
     );
 }
 
+function inputSound()
+{
+    playTone(
+        400,     // frequency
+        100,     // duration
+        'triangle',  // waveType
+        0.01,      // volume
+        0,            // detune
+        0.02,      // attackTime
+        0.02,      // releaseTime
+        0.0      // panValue -0.5 is left
+    );
+}
+
 //--//
 
 // Dedicated to God the Father
