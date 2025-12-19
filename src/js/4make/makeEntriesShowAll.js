@@ -100,7 +100,7 @@ function makeEntriesShowAll(whichArray)
             notesText.style.padding = '4px 8px';
             notesText.style.fontFamily = 'Cambria';
             notesText.style.fontWeight = 'bold';
-            notesText.style.color = 'rgb(175, 175, 175)';
+            notesText.style.color = 'rgba(0, 208, 255, 1)';
             rightContainer.append(notesText);
 
             //-//
