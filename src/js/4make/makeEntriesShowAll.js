@@ -96,6 +96,8 @@ function makeEntriesShowAll(whichArray)
             let notesText = ce('div');
             notesText.textContent = whichArray[x].notes;
             notesText.style.marginTop = '26px';
+            notesText.style.height = '100px';
+            notesText.style.overflowY = 'scroll';
             notesText.style.backgroundColor = 'rgb(0, 0, 0)';
             notesText.style.border = 'solid 1px rgb(255, 255, 255)';
             notesText.style.borderRadius = '8px';
