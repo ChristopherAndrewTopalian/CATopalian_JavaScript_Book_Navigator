@@ -72,6 +72,8 @@ function makeEntriesShowAll(whichArray)
             descriptionText.style.fontWeight = 'bold';
             descriptionText.style.borderRadius = '8px';
             descriptionText.style.fontFamily = 'Arial';
+            descriptionText.style.height = '100px';
+            descriptionText.style.overflowY = 'scroll';
             leftContainer.append(descriptionText);
 
             //-//

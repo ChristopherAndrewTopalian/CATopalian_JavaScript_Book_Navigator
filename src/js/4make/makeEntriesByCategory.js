@@ -73,6 +73,8 @@ function makeEntriesByCategory(whichArray, category)
             descriptionText.style.fontWeight = 'bold';
             descriptionText.style.borderRadius = '8px';
             descriptionText.style.fontFamily = 'Arial';
+            descriptionText.style.height = '100px';
+            descriptionText.style.overflowY = 'scroll';
             leftContainer.append(descriptionText);
 
             //-//
@@ -101,7 +103,7 @@ function makeEntriesByCategory(whichArray, category)
             notesText.style.padding = '4px 8px';
             notesText.style.fontFamily = 'Cambria';
             notesText.style.fontWeight = 'bold';
-            notesText.style.color = 'rgb(175, 175, 175)';
+            notesText.style.color = 'rgba(0, 208, 255, 1)';
             rightContainer.append(notesText);
 
             //-//
