@@ -49,20 +49,6 @@ function hoverSound()
 function hoverSound2()
 {
     playTone(
-        200,     // frequency
-        400,     // duration
-        'sine',  // waveType
-        0.01,      // volume
-        0,       // detune
-        0.01,      // attackTime
-        0.01,      // releaseTime
-        0.0      // panValue -0.5 is left
-    );
-}
-
-function hoverSound2()
-{
-    playTone(
         300,     // frequency
         300,     // duration
         'triangle',  // waveType
