@@ -17,6 +17,22 @@ function getUniqueCategories(whichArray)
 
 function makeInterface(whichArray)
 {
+    let theTitle = ce('a');
+    theTitle.id = 'theTitle';
+    theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Book_Navigator';
+    theTitle.target = '_blank';
+    theTitle.textContent = 'CATopalian JavaScript Book Navigator';
+    theTitle.style.marginLeft = '4px';
+    theTitle.style.fontSize = '15px';
+    theTitle.style.fontWeight = 'bold';
+    theTitle.style.textAlign = 'right';
+    theTitle.style.lineHeight = 15 + 'px';
+    theTitle.style.fontFamily = 'Arial';
+    theTitle.style.textDecoration = 'none';
+    ba(theTitle);
+
+    //-//
+
     if (ge('dataContainer'))
     {
         ge('dataContainer').remove();
@@ -236,7 +252,7 @@ function makeInterface(whichArray)
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting

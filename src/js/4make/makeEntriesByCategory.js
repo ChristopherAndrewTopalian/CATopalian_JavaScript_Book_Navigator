@@ -69,6 +69,8 @@ function makeEntriesByCategory(whichArray, category)
             descriptionText.style.backgroundColor = 'rgb(0, 0,  0)';
             descriptionText.textContent = whichArray[x].description;
             descriptionText.style.color = 'rgb(175, 175, 175)';
+            descriptionText.style.border = 'solid 1px rgb(255, 255, 255)';
+            descriptionText.style.borderRadius = '8px';
             descriptionText.style.padding = '8px 8px';
             descriptionText.style.fontWeight = 'bold';
             descriptionText.style.borderRadius = '8px';
@@ -200,7 +202,7 @@ function makeEntriesByCategory(whichArray, category)
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
