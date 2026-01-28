@@ -17,6 +17,11 @@ function getUniqueCategories(whichArray)
 
 function makeInterface(whichArray)
 {
+    if (ge('theTitle'))
+    {
+        ge('theTitle').remove();
+    }
+
     let theTitle = ce('a');
     theTitle.id = 'theTitle';
     theTitle.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Book_Navigator';
