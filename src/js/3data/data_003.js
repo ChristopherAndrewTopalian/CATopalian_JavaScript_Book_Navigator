@@ -20,6 +20,23 @@ data_003 = [
         evidence002URL: '',
         evidence002Words: ""
     },
+
+
+    // genesis 25:44-46 abuse
+    {
+        category: "abuse",
+        name: "Genesis 17:10-11",
+        url_001: "https://www.biblegateway.com/passage/?search=Genesis%2017:10-11&version=KJV",
+        description: "Genesis 17:10-11 (KJV) 10 This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised. 11 And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you.",
+        url_002: "https://www.biblegateway.com/passage/?search=Genesis%2017&version=KJV",
+        notes: "The covenant they spoke of, is in reality, genital mutilation of babies, which they state in the book, that they are cutting the baby to get land, in order to keep the covenant. The exact definition of insanity is if someone tells you that they will get land if they cut a baby because a voice told them to.",
+        evidence001Name: '',
+        evidence001URL: '',
+        evidence001Words: '',
+        evidence002Name: '',
+        evidence002URL: '',
+        evidence002Words: ""
+    },
 ];
 
 //----//
